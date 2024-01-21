@@ -11,11 +11,9 @@ aprendido a valorar:
 ## Colaboración con el cliente sobre negociación contractual
 ## Respuesta ante el cambio sobre seguir un plan
 
+***Esto es, aunque valoramos los elementos de la derecha, valoramos más los de la izquierda.***
 
-Esto es, aunque valoramos los elementos de la derecha,
-valoramos más los de la izquierda.
-
-Tomado de: <https://agilemanifesto.org/iso/es/manifesto.html>
+_Tomado de: <https://agilemanifesto.org/iso/es/manifesto.html>_
 
 ## Principios del Manifiesto Ágil
 
