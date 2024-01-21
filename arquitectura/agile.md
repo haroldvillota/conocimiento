@@ -15,6 +15,7 @@ aprendido a valorar:
 Esto es, aunque valoramos los elementos de la derecha,
 valoramos más los de la izquierda.
 
+Tomado de: <https://agilemanifesto.org/iso/es/manifesto.html>
 
 ## Principios del Manifiesto Ágil
 
@@ -65,3 +66,5 @@ emergen de equipos auto-organizados.
 cómo ser más efectivo para a continuación ajustar y
 perfeccionar su comportamiento en consecuencia.
 
+
+Tomado de: <https://agilemanifesto.org/iso/es/principles.html>
