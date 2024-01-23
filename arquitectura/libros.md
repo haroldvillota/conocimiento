@@ -10,10 +10,10 @@ https://www.buscalibre.com.co/libro-el-programador-pragmatico-edicion-especial/9
 ## Clean Code
 Robert C. Martin
 
-
-## Arquitectura Limpia (en espanol)
+## Clean Architecture
 Robert C. Martin
 
+Arquitectura Limpia (en espanol)
 
 ## Grokking algorithms Second Edition
 Aditya Bhargava (2024)
@@ -21,7 +21,7 @@ Aditya Bhargava (2024)
 
 ## Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code
 Al Sweigart (2020)
-online: https://inventwithpython.com/beyond/
+online: <https://inventwithpython.com/beyond/>
 
 
 ## Head First Design Patterns: Building Extensible and Maintainable Object Second Edition
