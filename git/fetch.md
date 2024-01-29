@@ -4,11 +4,9 @@ Trae las referencias a las ramas remotas
 
 ## comandos mas usados
 
-
 Trae las referencias del repositorio remoto y elimina las que han sido eliminadas remoto (all prune)
 
 git fetch -ap
-
 
 ## tldr git fetch
 

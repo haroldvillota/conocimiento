@@ -3,11 +3,11 @@
 ## Clone with api key
 
 ```sh
-git clone https://disarrollo:API_KEY@github.com/disarrollo/api-com-extandar-jsworker.git .
+git clone https://haroldvillota:API_KEY@github.com/haroldvillota/com-blog-control.git .
 ```
 
 ## Add origin with api key
 
 ```sh
-git remote add origin https://disarrollo:API_KEY@github.com/disarrollo/com-extandar-control.git
+git remote add origin https://haroldvillota:API_KEY@github.com/haroldvillota/com-blog-control.git
 ```

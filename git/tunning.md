@@ -8,7 +8,6 @@ touch ~/.gitignore_global
 
 git config --global core.excludesfile ~/.gitignore_global
 
-
 ## Global Config
 
 git config --global user.name "Harold Villota"
