@@ -1,20 +1,22 @@
 # Microservicios
 
 ## Testing
-	- Unit Test
-	- Integration Test
+
+    - Unit Test
+    - Integration Test
 
 ## Observability
 
 ### Tres pilares
- - Logs
- - Metrics
- - Tracing
+
+-   Logs
+-   Metrics
+-   Tracing
 
 ### Tools
 
 Grafana - Data analisys, monitoreo, dashboards and visualizations.
-Kibana  - Data visualizations
+Kibana - Data visualizations
 Tableau - Data visualizations
 Prometheus - Monitoreo y alertas, data collect, time series
 DataDog - Monitoreo
@@ -29,31 +31,27 @@ SignalFx - Monitoring
 
 ### Conceptos
 
-APM: Application Performance Monitoring 
-
+APM: Application Performance Monitoring
 
 ## Discovery
+
 ## Communication
 
 Sync
 Async
 
-
 ## Deployment
 
-Continous Integration (CI)
-- Build
-- Test
-- Report
+### Continous Integration (CI)
 
-Tools
-- Jenkins
+-   Build
+-   Test
+-   Report
 
-Continous Delivery (CD)
-- Deploy
+### Tools
 
+-   Jenkins
 
+## Continous Delivery (CD)
 
-
-
-
+-   Deploy
