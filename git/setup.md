@@ -10,6 +10,6 @@ Luego de ejecutar el comando, clonar un proyecto privado, ingresar username y pe
 Configurar la identidad:
 
 ```bash
-git config --global user.name "Harold Villota"
-git config --global user.email aroldf@gmail.com
+git config --global user.name "Iron Man"
+git config --global user.email micorreo@example.com
 ```
