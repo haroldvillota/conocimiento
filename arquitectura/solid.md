@@ -1,9 +1,11 @@
 # Solid principles
 
 ## S (SRP) Principio de responsabilidad única (Single responsibility principle)
+
 la noción de que un objeto solo debería tener una única razón para cambiar.
 
 ## O (OCP) Principio de abierto/cerrado (Open/closed principle)
+
 la noción de que las “entidades de software … deben estar abiertas para su extensión, pero cerradas para su modificación”.
 
 ## L (LSP) Principio de sustitución de Liskov (Liskov substitution principle)

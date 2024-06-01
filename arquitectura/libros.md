@@ -8,6 +8,10 @@ En espanol: El programador Pragmmatico Edicion especial
 
 <https://www.buscalibre.com.co/libro-el-programador-pragmatico-edicion-especial/9788441545878/p/54135265>
 
+## Patterns of Enterprise Application Architecture y Refactoring.
+
+Martin Fowler (2003)
+
 ## Clean Code
 
 Robert C. Martin
